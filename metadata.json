@@ -1,0 +1,6 @@
+{
+  "name": "高精3D风水罗盘 (天心十道·陀螺仪感应)",
+  "description": "精细3D建模专业风水综合罗盘，支持手机陀螺仪实时方向对齐、二十四山与六十四卦解析、双向水准仪校准及三维视角把玩。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
